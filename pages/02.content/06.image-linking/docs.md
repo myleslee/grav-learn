@@ -27,7 +27,7 @@ To get us started, here is a quick look at some of the common components of a Gr
 | `!`    | When placed at the beginning of a traditional markdown link tag, it indicates this is an image tag.                        |
 | `[]`   | The square bracket is used to wrap the **optional** alt-text for the image. |
 | `()`   | The parenthesis is used to surround the reference to the image itself. This is placed directly after the square bracket.                                                           |
-| `../`  | When used in the link, it indicates a move up a directory.                                                                                                       |
+| `../`  | When used in the link, it indicates to move up a directory.                                                                                                       |
 
 >>>>>> You can combine a regular page link and an image link like to wrap an image in a link: `[![Alt text](/path/to/img.jpg)](http://example.net/)`
 
